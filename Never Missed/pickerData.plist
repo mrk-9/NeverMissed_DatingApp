@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>shoeHeight</key>
+	<array>
+		<string></string>
+		<string>0</string>
+		<string>1</string>
+		<string>2</string>
+		<string>3</string>
+		<string>4</string>
+		<string>5</string>
+		<string>6</string>
+	</array>
+	<key>clothingColors</key>
+	<array>
+		<string></string>
+		<string>White</string>
+		<string>Gray</string>
+		<string>Black</string>
+		<string>Red</string>
+		<string>Green</string>
+		<string>Blue</string>
+		<string>Yellow</string>
+		<string>Orange</string>
+		<string>Purple</string>
+		<string>Pink</string>
+		<string>Brown</string>
+		<string>Other</string>
+	</array>
+	<key>Staten Island Railway</key>
+	<array>
+		<string></string>
+		<string>St George - Tottenville</string>
+	</array>
+	<key>RTA Rapid Transit</key>
+	<array>
+		<string></string>
+		<string>Red Line</string>
+		<string>Blue Line</string>
+		<string>Green Line</string>
+		<string>Waterfront Line</string>
+		<string>Health Line</string>
+	</array>
+	<key>PATCO Speedline</key>
+	<array>
+		<string></string>
+		<string>Lindenwold Local</string>
+		<string>Lindenwold Express</string>
+		<string>Philadelphia Local</string>
+		<string>Philadelphia Express</string>
+		<string>Woodcrest Local</string>
+		<string>Ferry Avenue Local</string>
+	</array>
+	<key>Baltimore Metro Subway</key>
+	<array>
+		<string></string>
+		<string>Owings Mills - Johns Hopkins Hospital</string>
+	</array>
+	<key>Metrorail Miami</key>
+	<array>
+		<string></string>
+		<string>Orange Line</string>
+		<string>Green Line</string>
+	</array>
+	<key>LA Metro Rail</key>
+	<array>
+		<string></string>
+		<string>Blue Line</string>
+		<string>Expo Line</string>
+		<string>Gold Line</string>
+		<string>Green Line</string>
+		<string>Purple Line</string>
+		<string>Red Line</string>
+	</array>
+	<key>MARTA Rail System</key>
+	<array>
+		<string></string>
+		<string>Red Line</string>
+		<string>Green Line</string>
+		<string>Blue Line</string>
+		<string>Gold Line</string>
+	</array>
+	<key>PATH</key>
+	<array>
+		<string></string>
+		<string>Newark - World Trade Center</string>
+		<string>Hoboken - World Trade Center</string>
+		<string>Journal Square - 33rd Street</string>
+		<string>Hoboken - 33rd Street</string>
+	</array>
+	<key>SEPTA</key>
+	<array>
+		<string></string>
+		<string>Airport Line</string>
+		<string>Chestnut Hill West Line</string>
+		<string>Chestnut Hill East Line</string>
+		<string>Cynwyd Line</string>
+		<string>Fox Chase Line</string>
+		<string>Lansdale/Doylestown Line</string>
+		<string>Manayunk/Norristown Line</string>
+		<string>Media/Elwyn Line</string>
+		<string>Paoli/Thorndale Line</string>
+		<string>Trenton Line</string>
+		<string>Warminster Line</string>
+		<string>West Trenton Line</string>
+		<string>Wilmington/Newark Line</string>
+	</array>
+	<key>Bay Area Rapid Transit</key>
+	<array>
+		<string></string>
+		<string>Red Line</string>
+		<string>Orange Line</string>
+		<string>Green Line</string>
+		<string>Yellow Line</string>
+		<string>Blue Line</string>
+	</array>
+	<key>MBTA Subway</key>
+	<array>
+		<string></string>
+		<string>Blue Line</string>
+		<string>Green Line</string>
+		<string>Orange Line</string>
+		<string>Red Line</string>
+		<string>Silver Line</string>
+	</array>
+	<key>Chicago &apos;L&apos;</key>
+	<array>
+		<string></string>
+		<string>Red Line</string>
+		<string>Blue Line</string>
+		<string>Brown Line</string>
+		<string>Green Line</string>
+		<string>Orange Line</string>
+		<string>Purple Line</string>
+		<string>Pink Line</string>
+		<string>Yellow Line</string>
+	</array>
+	<key>Washington Metro</key>
+	<array>
+		<string></string>
+		<string>Red Line</string>
+		<string>Orange Line</string>
+		<string>Silver Line</string>
+		<string>Blue Line</string>
+		<string>Yellow Line</string>
+		<string>Green Line</string>
+	</array>
+	<key>NYC Subway</key>
+	<array>
+		<string></string>
+		<string>1 - Broadway - 7th ave. </string>
+		<string>2 - Broadway - 7th ave. </string>
+		<string>3 - Broadway - 7th ave. </string>
+		<string>4 - Lexington Avenue</string>
+		<string>5 - Lexington Avenue</string>
+		<string>6 - Lexington Avenue</string>
+		<string>7 - Flushing </string>
+		<string>A - Eighth Avenue</string>
+		<string>B - Sixth Avenue </string>
+		<string>C - Eighth Avenue</string>
+		<string>D - Sixth Avenue </string>
+		<string>E - Eighth Avenue</string>
+		<string>F - Sixth Avenue </string>
+		<string>G - Crosstown </string>
+		<string>J - Nassau St</string>
+		<string>L - Canarsie</string>
+		<string>M - Sixth Avenue </string>
+		<string>N - Broadway</string>
+		<string>Q - Broadway</string>
+		<string>R - Broadway</string>
+		<string>S - Shuttles</string>
+		<string>Z - Nassau St</string>
+	</array>
+	<key>railways</key>
+	<array>
+		<string></string>
+		<string>Amtrak</string>
+		<string>NYC Subway</string>
+		<string>Washington Metro</string>
+		<string>Chicago &apos;L&apos;</string>
+		<string>MBTA Subway</string>
+		<string>Bay Area Rapid Transit</string>
+		<string>SEPTA</string>
+		<string>PATH</string>
+		<string>MARTA Rail System</string>
+		<string>LA Metro Rail</string>
+		<string>Metrorail Miami</string>
+		<string>Baltimore Metro Subway</string>
+		<string>PATCO Speedline</string>
+		<string>RTA Rapid Transit</string>
+		<string>Staten Island Railway</string>
+	</array>
+	<key>hairLengths</key>
+	<array>
+		<string></string>
+		<string>Short</string>
+		<string>Medium</string>
+		<string>Long</string>
+		<string>Bald</string>
+	</array>
+	<key>hairColors</key>
+	<array>
+		<string></string>
+		<string>Brown</string>
+		<string>Blonde</string>
+		<string>Red</string>
+		<string>Black</string>
+		<string>Grey</string>
+		<string>White</string>
+		<string>Pink</string>
+		<string>Purple</string>
+		<string>Blue</string>
+		<string>Other</string>
+	</array>
+	<key>carriers</key>
+	<array>
+		<string>AirTran</string>
+		<string>Alaska</string>
+		<string>American</string>
+		<string>Delta</string>
+		<string>Frontier</string>
+		<string>Hawaiian</string>
+		<string>JetBlue</string>
+		<string>Southwest</string>
+		<string>Spirit</string>
+		<string>United</string>
+		<string>US Airways</string>
+		<string>Virgin America</string>
+		<string>Other</string>
+	</array>
+</dict>
+</plist>
